@@ -1,0 +1,40 @@
+﻿ID;Pergunta;A;Nó A;B;Nó B
+1;A casa possui mais de 3 quartos?;SIM;2;NÃO;16
+2;Foi construido depois de 1984?;SIM;3;NÃO;5
+3;Possui mais de um andar?;SIM;4;NÃO;10
+4;A condicao dela é maior que 3?;SIM;8;NÃO;9
+5;A condicao dela é maior que 3?;SIM;6;NÃO;7
+6;Tem mais de 2 banheiros?;SIM;11;NÃO;12
+7;Possui mais de um andar?;SIM;14;NÃO;13
+8;NÓ FOLHA;A Casa esta com um valor Barato;;;
+9;NÓ FOLHA;A Casa esta com um valor Barato;;;
+10;NÓ FOLHA;A Casa esta com um valor Barato;;;
+11;NÓ FOLHA;A Casa esta com um valor Barato;;;
+12;NÓ FOLHA;A Casa esta com um valor Barato;;;
+13;Tem mais de 2 banheiros?;SIM;14;NÃO;15
+14;NÓ FOLHA;A Casa esta com um valor Caro;;;
+15;NÓ FOLHA;A Casa esta com um valor Caro;;;
+16;Possui mais de um andar?;SIM;17;NÃO;25
+17;Foi construido depois de 1984?;SIM;18;NÃO;0
+18;A condicao dela é maior que 3?;SIM;19;NÃO;20
+19;NÓ FOLHA;A Casa esta com um valor Caro;;;
+20;Tem mais de 2 banheiros;SIM;21;NÃO;22
+21;NÓ FOLHA;A Casa esta com um valor Barato;;;
+22;Possui uma nota maior do que 7?;SIM;23;não;24
+23;NÓ FOLHA;A Casa esta com um valor Barato;;;
+24;NÓ FOLHA;A Casa esta com um valor Caro;;;
+25;Foi construido depois de 1984?;SIM;26;NÃO;31
+26;A condicao dela é maior que 3?;SIM;27;NÃO;28
+27;NÓ FOLHA;A Casa esta com um valor Barato;;;
+28;Tem mais de 2 banheiros?;SIM;29;NÃO;30
+29;NÓ FOLHA;A Casa esta com um valor Caro;;;
+30;NÓ FOLHA;A Casa esta com um valor Caro;;;
+31;Possui uma nota maior do que 7?;SIM;32;não;35
+32;A condicao dela é maior que 3?;SIM;33;NÃO;34
+33;NÓ FOLHA;A Casa esta com um valor Caro;;;
+34;NÓ FOLHA;A Casa esta com um valor Caro;;;
+35;Tem mais de 2 banheiros?;SIM;36;NÃO;37
+36;NÓ FOLHA;A Casa esta com um valor Caro;;;
+37;Possui uma nota maior do que 7?;SIM;38;NÃO;39
+38;NÓ FOLHA;A Casa esta com um valor Caro;;;
+39;NÓ FOLHA;A Casa esta com um valor Caro;;;
